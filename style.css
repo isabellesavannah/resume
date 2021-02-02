@@ -1,0 +1,52 @@
+.main-one{
+    background-color: blue;
+    color: white;
+    height: 65px;
+    padding-top: 10px;
+}
+.bold{
+    font-weight: bold;
+}
+.para{
+    width: 300px;
+    margin: auto;
+}
+.tite{
+    text-align: center;
+}
+.margy{
+    margin-bottom: 50px;
+}
+.footy{
+    position: relative;
+    background-color: blue;
+    height:80px;
+    width: 100%;
+}
+.blanky{
+    height: 10px;
+    width: relative;
+    background-color: lightblue;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.arya{
+    width: 125px;
+    height: 125px;
+    position: fixed;
+    right: 5vw;
+    top: 20vh;
+}
+.ary-art{
+    width: 125px;
+    position: fixed;
+    right: 5vw;
+    top: 44vw;
+}
+.ary-head{
+    width: 125px;
+    position: fixed;
+    right: 5vw;
+    top: 40vw;
+}
